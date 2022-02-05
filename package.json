@@ -1,0 +1,17 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.ts",
+  "repository": "https://github.com/khjzzm/movieql.git",
+  "author": "kimhyunjin",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "start": "nodemon"
+  }
+}
